@@ -14,6 +14,10 @@ This project performs Exploratory Data Analysis on the Zomato dataset to uncover
 - Matplotlib
 - Seaborn
 
+## 📊 Data Visualizations
+### 🍽️ Top Cuisines
+![Top Cuisines](images/Bar Graph.png)
+
 ## 📂 Dataset
 Zomato restaurant dataset with details like ratings, cost, cuisines, location, and services.
 
